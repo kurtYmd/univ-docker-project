@@ -2,10 +2,15 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/backenddb
-    username: postgres
-    password: backend
+    url: ${db-url:jdbc:postgresql://localhost:5432/backenddb}
+    username: ${db-username:postgres}
+    password: ${db-password:backend}
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     hibernate:
       ddl-auto: create-drop
+  artemis:
+    embedded:
+      server-id:
+server:
+  address: 0.0.0.0

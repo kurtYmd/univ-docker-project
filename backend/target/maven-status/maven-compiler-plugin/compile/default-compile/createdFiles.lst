@@ -1,0 +1,15 @@
+com/kurtymd/crud/backend/repositories/VehicleRepository.class
+com/kurtymd/crud/backend/mappers/VehicleMapper.class
+com/kurtymd/crud/backend/config/RestExceptionHandler.class
+com/kurtymd/crud/backend/config/WebConfig.class
+com/kurtymd/crud/backend/entities/Vehicle$VehicleBuilder.class
+com/kurtymd/crud/backend/exceptions/AppException.class
+com/kurtymd/crud/backend/BackendApplication.class
+com/kurtymd/crud/backend/controllers/VehicleController.class
+com/kurtymd/crud/backend/dtos/VehicleDto.class
+com/kurtymd/crud/backend/config/WebConfig$1.class
+com/kurtymd/crud/backend/entities/Vehicle.class
+com/kurtymd/crud/backend/dtos/ErrorDto.class
+com/kurtymd/crud/backend/dtos/VehicleDto$VehicleDtoBuilder.class
+com/kurtymd/crud/backend/services/VehicleService.class
+com/kurtymd/crud/backend/mappers/VehicleMapperImpl.class
