@@ -1,4 +1,4 @@
-Backend
+# Backend
 Backend jest wykonany przy użyciu Spring Boot, Java, JPA i dostępu do Postgres.
-Frontend
+# Frontend
 Frontend jest wykonany przy użyciu Angular.
